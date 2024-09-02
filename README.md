@@ -7,4 +7,5 @@ This project focuses on creating an interactive dynamic sales dashboard for Walm
 Key Achievements:
 
   --> Visualized sales trends over time.
+  
   --> Improved data-driven decision-making processes.
